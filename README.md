@@ -4,7 +4,7 @@
 
 **This is a Java project from my early days as a Computer Science student**
 
-_This programm was created for the fourth semester class Programming on the Internet and the World Wide Web 
+_This programm was created for the fourth semester class "Programming on the Internet and the World Wide Web" 
 and is the final project for the class_
 
 
